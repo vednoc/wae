@@ -1,0 +1,4 @@
+# WhatsApp Emojis
+
+Transparent emoji images for use in [[https://github.com/vednoc/dark-whatsapp][dark-whatsapp]] project. Huge thanks to
+[[https://github.com/Slyther/transparent-whatsapp-spritesheets][Slyther's tool]] for automating the process of converting images.
